@@ -10,3 +10,6 @@ The additional libraries included are:
  
 * pip 
 * numpy
+* kafka-python
+* spark-streaming-kafka-0-8_2.11:2.0.0
+
